@@ -1,1 +1,1 @@
-![model1]("model1/model1.gif")
+![model1]("/model1/model1.gif")
