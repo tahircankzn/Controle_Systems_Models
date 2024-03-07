@@ -43,7 +43,7 @@ def text(msg1,msg2):
 BG = pygame.image.load("model1.png")
 
 M = 10
-fv = 0.5
+fv = 0.25
 
 t = 0
 
